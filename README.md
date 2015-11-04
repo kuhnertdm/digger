@@ -1,7 +1,7 @@
 # digger
 Proof-of-concept for "Digger" game written in Java
 
-This repo contains the code for a proof-of-concept for a simple game called "Digger." The BinarySearchTree.java file also contains three different iterators for the class, the most useful of which is the in-order iterator.
+This repo contains the code for a proof-of-concept for a simple game called "Digger."
 
 # Overview
 
